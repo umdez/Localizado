@@ -33,3 +33,7 @@ console.log(localidade.gerar('aninhado.ola'));
   
 console.log(localidade.seTemLocalidade('en_US'));
 ```
+
+#Créditos
+- Todos os contribuidores do projeto [Simple-locale](https://github.com/rico345100/simple-locale/blob/master/simple-locale/exam.js)
+- Todos os contribuidores da Devowly Sistemas.
