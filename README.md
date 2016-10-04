@@ -31,5 +31,5 @@ localidade.carregar(localidade.en_US, {
 console.log(localidade.gerar('ola'));
 console.log(localidade.gerar('aninhado.ola'));
   
-console.log(locale.seTemLocalidade('en_US'));
+console.log(localidade.seTemLocalidade('en_US'));
 ```
